@@ -8,16 +8,8 @@ class Solution {
         else if(nums[i]<0){
             neg++;
         }
-        else{
-            continue;
-        }
 
        } 
-       if(pos>neg){
-        return pos;
-       }
-       else{
-        return neg;
-       }
+       return Math.max(pos,neg);
     }
 }
