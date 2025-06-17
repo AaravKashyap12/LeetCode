@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AaravKashyap12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
