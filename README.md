@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
+| [3371-harshad-number](https://github.com/AaravKashyap12/LeetCode/tree/master/3371-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
