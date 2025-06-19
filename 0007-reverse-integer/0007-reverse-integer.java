@@ -1,23 +1,15 @@
 class Solution {
-    public int rev(int num) {
-        int reverse = 0;
-        while (num != 0) {
-            int rem = num % 10;
-            if (reverse > (Integer.MAX_VALUE - rem) / 10) {
-                return 0; 
-            }
-
-            reverse = reverse * 10 + rem;
-            num = num / 10;
-        }
-        return reverse;
-    }
-
     public int reverse(int x) {
-        if (x < 0) {
-            int n = -1 * x;
-            return -1 * rev(n);
+        int rev=0;
+        while(x!=0){
+            int digit=x%10;
+            if(rev>Integer.MAX_VALUE/10|| rev<Integer.MIN_VALUE/10){
+                return 0;
+            }
+            rev=(rev*10)+digit;
+            x=x/10;
         }
-        return rev(x);
+        return rev;
+        
     }
 }
