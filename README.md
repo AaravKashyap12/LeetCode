@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AaravKashyap12/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AaravKashyap12/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AaravKashyap12/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AaravKashyap12/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
