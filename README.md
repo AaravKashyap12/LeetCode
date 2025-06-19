@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
