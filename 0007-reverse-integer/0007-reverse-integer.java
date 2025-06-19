@@ -4,9 +4,9 @@ class Solution {
         while (num != 0) {
             int rem = num % 10;
 
-            // Check for overflow before multiplying by 10
+            
             if (reverse > (Integer.MAX_VALUE - rem) / 10) {
-                return 0; // Overflow
+                return 0; 
             }
 
             reverse = reverse * 10 + rem;
