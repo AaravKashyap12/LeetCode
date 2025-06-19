@@ -1,15 +1,10 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int sum=1;
-        if(num<=1){
-            return false;
+       
+        if(num==6 || num==28 || num==496||num==8128||num==33550336){
+            return true;
         }
-     for(int i = 2;i<num;i++){
-        if(num%i==0){
-            sum+=i; 
-            
-        }
-     }   
-     return sum==num;
+        return false;
+
     }
 }
