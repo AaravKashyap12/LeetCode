@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/2383-add-two-integers) |
+| [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
