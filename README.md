@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaravKashyap12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/AaravKashyap12/LeetCode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AaravKashyap12/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
