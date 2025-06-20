@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/AaravKashyap12/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaravKashyap12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/AaravKashyap12/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
