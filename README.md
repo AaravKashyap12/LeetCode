@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AaravKashyap12/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2752-sum-multiples](https://github.com/AaravKashyap12/LeetCode/tree/master/2752-sum-multiples) |
 | [2857-total-distance-traveled](https://github.com/AaravKashyap12/LeetCode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/AaravKashyap12/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
