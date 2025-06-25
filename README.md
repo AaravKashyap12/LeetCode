@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AaravKashyap12/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2857-total-distance-traveled](https://github.com/AaravKashyap12/LeetCode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/AaravKashyap12/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/AaravKashyap12/LeetCode/tree/master/3371-harshad-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2857-total-distance-traveled](https://github.com/AaravKashyap12/LeetCode/tree/master/2857-total-distance-traveled) |
 ## Number Theory
 |  |
 | ------- |
