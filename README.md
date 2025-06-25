@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AaravKashyap12/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/AaravKashyap12/LeetCode/tree/master/3371-harshad-number) |
+| [3830-find-closest-person](https://github.com/AaravKashyap12/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
