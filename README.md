@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/AaravKashyap12/LeetCode/tree/master/3371-harshad-number) |
 | [3830-find-closest-person](https://github.com/AaravKashyap12/LeetCode/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Interactive
 |  |
 | ------- |
