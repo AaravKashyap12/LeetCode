@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AaravKashyap12/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AaravKashyap12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AaravKashyap12/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AaravKashyap12/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AaravKashyap12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AaravKashyap12/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
 ## Stack
 |  |
