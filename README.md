@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AaravKashyap12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/AaravKashyap12/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AaravKashyap12/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AaravKashyap12/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
 ## Stack
 |  |
