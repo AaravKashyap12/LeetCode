@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AaravKashyap12/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0507-perfect-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AaravKashyap12/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AaravKashyap12/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
