@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/AaravKashyap12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AaravKashyap12/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AaravKashyap12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AaravKashyap12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
