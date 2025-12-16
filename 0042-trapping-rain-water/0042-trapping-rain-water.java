@@ -6,7 +6,7 @@ class Solution {
         int[] rightmax = new int[n];
 
         leftmax[0]=height[0];
-        for(int i=1;i<=n-1;i++){
+        for(int i=1;i<n;i++){
             leftmax[i]=Math.max(height[i],leftmax[i-1]);
         }
         rightmax[n-1]=height[n-1];
