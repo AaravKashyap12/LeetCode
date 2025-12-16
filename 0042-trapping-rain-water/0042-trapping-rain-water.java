@@ -20,3 +20,13 @@ class Solution {
         return sum;
     }
 }
+
+/* 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 = height 
+   0, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3 = left max
+   3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 1 = right max
+
+   water level = 0, 1, 1, 2, 2, 2, 2, 3, 2, 2, 2, 1 
+    height =     0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 [original array]
+ final array  =  0, 0, 1, 0, 1, 2, 1, 0, 0, 1, 0, 0
+
+ now sum final array = 6 */
