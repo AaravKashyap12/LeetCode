@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/AaravKashyap12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AaravKashyap12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AaravKashyap12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AaravKashyap12/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
