@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AaravKashyap12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaravKashyap12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AaravKashyap12/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AaravKashyap12/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Geometry
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AaravKashyap12/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
