@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AaravKashyap12/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AaravKashyap12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AaravKashyap12/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AaravKashyap12/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -245,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AaravKashyap12/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
