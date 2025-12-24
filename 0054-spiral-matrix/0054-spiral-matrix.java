@@ -11,25 +11,23 @@ class Solution {
                 ans.add(matrix[top][i]);
             }
             top++;
-
-            for(int i = top;i<=bottom;i++){
+            for (int i = top; i <= bottom; i++) {
                 ans.add(matrix[i][rc]);
             }
             rc--;
-           if(top<=bottom){
-            for(int i = rc;i>=lc;i--){
-                ans.add(matrix[bottom][i]);
+            if (bottom >= top) {
+                for (int i = rc; i >= lc; i--) {
+                    ans.add(matrix[bottom][i]);
+                }
+                bottom--;
             }
-            bottom--;
-           } 
-           if(rc>=lc){
-            for(int i = bottom;i>=top;i--){
-                ans.add(matrix[i][lc]);
+            if (rc >= lc) {
+                for (int i = bottom; i >= top; i--) {
+                    ans.add(matrix[i][lc]);
+                }
+                lc++;
             }
-            lc++;
-           }
         }
-           return ans;
-
+        return ans;
     }
 }
