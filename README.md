@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
