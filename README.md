@@ -270,4 +270,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AaravKashyap12/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
