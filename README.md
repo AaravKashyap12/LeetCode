@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AaravKashyap12/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
 | [1390-four-divisors](https://github.com/AaravKashyap12/LeetCode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AaravKashyap12/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
