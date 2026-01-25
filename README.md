@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AaravKashyap12/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AaravKashyap12/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AaravKashyap12/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AaravKashyap12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AaravKashyap12/LeetCode/tree/master/0274-h-index) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AaravKashyap12/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3321-type-of-triangle](https://github.com/AaravKashyap12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Interactive
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaravKashyap12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AaravKashyap12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AaravKashyap12/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
 | ------- |
