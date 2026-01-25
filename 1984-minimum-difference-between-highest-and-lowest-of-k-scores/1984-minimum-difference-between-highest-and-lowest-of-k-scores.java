@@ -8,9 +8,7 @@ class Solution {
     }
     for(int i=0;i<n-k+1;i++){
         int curr = nums[i+k-1]-nums[i];
-        if(curr<minDiff){
-            minDiff = curr;
-        }
+        minDiff = Math.min(minDiff,curr);
     }  
     return minDiff;  
     }
