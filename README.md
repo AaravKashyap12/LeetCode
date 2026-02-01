@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AaravKashyap12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/AaravKashyap12/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
 | [1200-minimum-absolute-difference](https://github.com/AaravKashyap12/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravKashyap12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AaravKashyap12/LeetCode/tree/master/0383-ransom-note) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/AaravKashyap12/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaravKashyap12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AaravKashyap12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/AaravKashyap12/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AaravKashyap12/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
