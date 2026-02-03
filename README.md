@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AaravKashyap12/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AaravKashyap12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AaravKashyap12/LeetCode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/AaravKashyap12/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1115-valid-boomerang](https://github.com/AaravKashyap12/LeetCode/tree/master/1115-valid-boomerang) |
