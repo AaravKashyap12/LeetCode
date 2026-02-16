@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AaravKashyap12/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AaravKashyap12/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AaravKashyap12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AaravKashyap12/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0202-happy-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AaravKashyap12/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AaravKashyap12/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AaravKashyap12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaravKashyap12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AaravKashyap12/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AaravKashyap12/LeetCode/tree/master/0189-rotate-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaravKashyap12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AaravKashyap12/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AaravKashyap12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AaravKashyap12/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AaravKashyap12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0503-next-greater-element-ii) |
