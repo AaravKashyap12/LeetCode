@@ -2,16 +2,13 @@ class Solution {
     public int evalRPN(String[] tokens) {
         String exprStr = "+-*/";
         Stack<Integer> stack = new Stack<Integer>();
-
-        for (int i = 0; i < tokens.length; i++) {
+        int n = tokens.length;
+        for (int i = 0; i < n; i++) {
             String token = tokens[i];
-
-            // + = * /
 
             if (exprStr.contains(token)) {
                 int op2 = stack.pop();
                 int op1 = stack.pop();
-
                 int val = 0;
 
                 switch (token) {
@@ -37,5 +34,6 @@ class Solution {
             }
         }
         return stack.peek();
+
     }
 }
