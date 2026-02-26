@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AaravKashyap12/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaravKashyap12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AaravKashyap12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaravKashyap12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AaravKashyap12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AaravKashyap12/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AaravKashyap12/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AaravKashyap12/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AaravKashyap12/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
