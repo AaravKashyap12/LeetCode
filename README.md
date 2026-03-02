@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AaravKashyap12/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/AaravKashyap12/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AaravKashyap12/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AaravKashyap12/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaravKashyap12/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AaravKashyap12/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AaravKashyap12/LeetCode/tree/master/0135-candy) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaravKashyap12/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Counting Sort
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AaravKashyap12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AaravKashyap12/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
