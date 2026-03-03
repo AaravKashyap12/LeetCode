@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AaravKashyap12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AaravKashyap12/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaravKashyap12/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2857-total-distance-traveled](https://github.com/AaravKashyap12/LeetCode/tree/master/2857-total-distance-traveled) |
 ## Number Theory
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AaravKashyap12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AaravKashyap12/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AaravKashyap12/LeetCode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaravKashyap12/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AaravKashyap12/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AaravKashyap12/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AaravKashyap12/LeetCode/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaravKashyap12/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaravKashyap12/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Geometry
