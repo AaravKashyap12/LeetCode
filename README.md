@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AaravKashyap12/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AaravKashyap12/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AaravKashyap12/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AaravKashyap12/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaravKashyap12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AaravKashyap12/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AaravKashyap12/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AaravKashyap12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
