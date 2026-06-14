@@ -10,7 +10,7 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-    Stack<Integer> stack = new Stack<>();
+    Deque<Integer> stack = new ArrayDeque<>();
     int max = Integer.MIN_VALUE;
     ListNode curr = head;
 
