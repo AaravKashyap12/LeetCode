@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2857-total-distance-traveled](https://github.com/AaravKashyap12/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3612-process-string-with-special-operations-i](https://github.com/AaravKashyap12/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AaravKashyap12/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AaravKashyap12/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3612-process-string-with-special-operations-i](https://github.com/AaravKashyap12/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AaravKashyap12/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Geometry
 |  |
 | ------- |
